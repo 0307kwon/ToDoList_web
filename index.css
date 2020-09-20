@@ -1,0 +1,25 @@
+body{
+  background-color: peru
+}
+
+h1 {
+  color:white;
+}
+
+.btn{
+  cursor : pointer;
+  transition: color .5s ease-in-out;
+}
+
+.myColor{
+  color:red;
+}
+
+.form,
+.greeting{
+  display: none;
+}
+
+.showing{
+  display: block;
+}
