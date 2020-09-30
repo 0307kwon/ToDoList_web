@@ -41,3 +41,7 @@ h1 {
   z-index: -1;
   animation: fadeIn .5s linear
 }
+
+.weather{
+  color:white;
+}
